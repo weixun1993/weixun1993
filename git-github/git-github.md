@@ -106,9 +106,9 @@
   	2. git config --global -l 查看全局配置信息
    	3. 配置用户名和邮箱
 
-   4. git config --global user.name 'wangguangwei'
+   4. git config --global user.name ''
 
-   5. git config --global user.email '305263226@qq.com'
+   5. git config --global user.email ''
 
       #### 创建本地完成版本控制
 
